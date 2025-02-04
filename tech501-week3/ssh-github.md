@@ -1,6 +1,3 @@
-Here is your `README.md` with the correct Markdown syntax, including all your images:
-
-````markdown
 # Authenticating into GitHub using SSH from Our Local Machine
 
 This guide explains how to authenticate into GitHub using SSH from a local machine.
@@ -12,6 +9,7 @@ First, generate an SSH key pair using the following command:
 ```sh
 ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 ```
+
 ````
 
 - Name your private key: `yourname-github-key`
@@ -99,3 +97,4 @@ And voilà! 🎉 Your changes are now pushed to the new GitHub repository.
 
 Save this as `README.md`, and it will properly format in GitHub or any Markdown viewer. Let me know if you need any modifications! 🚀
 ```
+````
