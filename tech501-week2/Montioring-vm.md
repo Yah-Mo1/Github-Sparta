@@ -50,4 +50,16 @@ Next, you should see your CPU metric spike up because of this
 
 Next, we will set up an alert such that when the cpu reaches a certain level, we will get an email notification of this:
 
+Lets create the action group:
+
+![alt text](<Screenshot 2025-02-06 at 09.13.21.png>)
+
+Lets verify that we have configured the alert rule correctly.
+
+![alt text](<Screenshot 2025-02-06 at 09.14.15.png>)
+
+The result:
+
+![alt text](<Screenshot 2025-02-06 at 10.01.03.png>)
+
 This helps simulate real-world traffic and measure your system’s response time under stress. 🚀
