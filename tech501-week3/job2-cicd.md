@@ -35,6 +35,7 @@ This document outlines the steps to configure a Jenkins job that merges changes 
 
 1. Check **Poll SCM** (if using polling) or set up a webhook to trigger the job on push events to `dev`.
 2. If using polling, enter an appropriate schedule (e.g., `H/5 * * * *` for every 5 minutes).
+3. Ensure that Build after other projects are built and add job1 as a project to watch
 
 ## Step 4: Add SSH Agent (if using SSH Authentication)
 

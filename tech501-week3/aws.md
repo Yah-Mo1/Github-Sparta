@@ -43,7 +43,7 @@ ssh-keygen -t rsa -b 4096 -C <your-email>
 
 - **VPC**: `default`
 - **Subnet**: `DevOpsStudent default 1c` (or `no preference`)
-- **Public IP**: Enabled
+- **Public IP**: Disabled
 
 ### Security Group Configuration:
 
