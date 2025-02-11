@@ -81,3 +81,7 @@ CI/CD isn't just a process—it's a smarter way to develop, test, and deploy sof
 5. Scroll to the **Pipeline** section.
 6. Select **Pipeline Script** and enter your multi-stage pipeline configuration.
    - Example: A script that outputs the current time.
+
+## **What are some of the required dependenceis when setting up your own server?**
+
+1. JDK (java development kit)
